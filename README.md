@@ -1,6 +1,6 @@
 # get_next_line
 
-Function allowing user to retrieve the next line of a file at each iteration
+This function allow the user to retrieve the next line of a file at each iteration
 
 # Example
 
